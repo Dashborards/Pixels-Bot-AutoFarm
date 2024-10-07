@@ -1,0 +1,7 @@
+keyboard
+PyAutoGUI
+pypiwin32
+pywin32
+Pillow
+opencv-python
+python-dotenv
